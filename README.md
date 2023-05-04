@@ -1,2 +1,2 @@
 # Atividade_Sete
-https://vercel.com/yhenriquee/atividade-sete
+https://atividade-sete.vercel.app/
